@@ -1,0 +1,5 @@
+gitlab.puppet.lan
+lon-agent-1324.puppet.lan
+nyc-agent-4163.puppet.lan
+pdx-agent-1663.puppet.lan
+pdx-agent-1743.puppet.lan

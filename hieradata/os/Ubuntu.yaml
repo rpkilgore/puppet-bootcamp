@@ -1,0 +1,16 @@
+---
+message: "Specific os from ubuntu yaml"
+sysctl:
+  kernel.shmall:
+    value: 2097153
+  kernel.shmmax:
+    value: 2147483648
+  kernel.shmmni:
+    value: 4096
+  fs.file-max:
+    value: 65536
+  vm.swappiness:
+    value: 0
+  vm.vfs_cache_pressure:
+    value: 50
+
